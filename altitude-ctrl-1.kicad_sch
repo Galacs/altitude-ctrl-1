@@ -5687,8 +5687,8 @@
 		)
 	)
 	(rectangle
-		(start 24.13 110.49)
-		(end 76.2 149.86)
+		(start 25.4 111.76)
+		(end 68.58 147.32)
 		(stroke
 			(width 0)
 			(type dash)
@@ -5721,6 +5721,18 @@
 			(type none)
 		)
 		(uuid "5c73957b-d471-4e28-98d0-72fa76eb5b48")
+	)
+	(rectangle
+		(start 25.4 78.74)
+		(end 66.04 107.95)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5d31b121-fcc2-4518-877b-caf2930c391e")
 	)
 	(rectangle
 		(start 123.19 146.05)
@@ -5806,15 +5818,16 @@
 		)
 		(uuid "fd9b4c25-568d-4063-a481-8fdacdeca544")
 	)
-	(text "MAX6675 Thermocouple\nADC"
+	(text "MAX6675\nThermocouple ADC"
 		(exclude_from_sim no)
-		(at 50.292 145.796 0)
+		(at 32.258 143.002 0)
 		(effects
 			(font
 				(size 1.905 1.905)
 				(thickness 0.508)
 				(bold yes)
 			)
+			(justify left)
 		)
 		(uuid "0222edd3-0892-4820-86a6-a8babf5ffff8")
 	)
@@ -5938,6 +5951,19 @@
 			)
 		)
 		(uuid "d918e1e6-df3a-40e0-ab81-2d67d8eefd65")
+	)
+	(text "Current pressure sensor"
+		(exclude_from_sim no)
+		(at 28.194 105.41 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "dac00cd4-5ab1-4b7b-8ef4-1494c35941d5")
 	)
 	(text "CAN Transceiver"
 		(exclude_from_sim no)
@@ -6232,6 +6258,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b407dc94-8dd9-4b99-b66f-845088475362")
+	)
+	(junction
+		(at 44.45 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b48f05cd-4b32-40af-ae81-005b139090cd")
 	)
 	(junction
 		(at 127 40.64)
@@ -7311,6 +7343,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 86.36) (xy 44.45 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9347ff-4c89-4417-b50c-18c5b1055df0")
+	)
+	(wire
+		(pts
 			(xy 96.52 175.26) (xy 96.52 181.61)
 		)
 		(stroke
@@ -8231,6 +8273,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 99.06) (xy 44.45 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5832ee6-c7ba-4419-a16d-dce58e5a8a43")
+	)
+	(wire
+		(pts
 			(xy 196.85 67.31) (xy 196.85 85.09)
 		)
 		(stroke
@@ -8418,6 +8470,16 @@
 			(type default)
 		)
 		(uuid "b5f338fb-e726-4199-a4a5-6336da002c4e")
+	)
+	(wire
+		(pts
+			(xy 44.45 90.17) (xy 58.42 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b745dd38-a5b0-44ed-9cdd-c6e8436a62a6")
 	)
 	(wire
 		(pts
@@ -8648,6 +8710,16 @@
 			(type default)
 		)
 		(uuid "c8309e3a-8182-4f14-a768-aff150e5eae4")
+	)
+	(wire
+		(pts
+			(xy 44.45 87.63) (xy 43.18 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8990405-1999-4342-8597-460e0116ce40")
 	)
 	(wire
 		(pts
@@ -9001,6 +9073,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 90.17) (xy 44.45 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f16164a6-4721-4290-b1be-6489c2c082a2")
+	)
+	(wire
+		(pts
 			(xy 66.04 125.73) (xy 60.96 125.73)
 		)
 		(stroke
@@ -9028,6 +9110,16 @@
 			(type default)
 		)
 		(uuid "f5ed8fa6-44f5-400a-8e38-46b20b66856f")
+	)
+	(wire
+		(pts
+			(xy 43.18 90.17) (xy 44.45 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f685f4f6-f018-4dd6-83a5-e2bbd2bb51cb")
 	)
 	(wire
 		(pts
@@ -9168,6 +9260,16 @@
 			(justify left bottom)
 		)
 		(uuid "19b100fa-4e9b-40b0-ace1-a083fcfa72f5")
+	)
+	(label "PRES_SENSE"
+		(at 58.42 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "31b15875-fd36-454e-b6ed-67aa0abd22bb")
 	)
 	(label "BTN1"
 		(at 118.11 181.61 180)
@@ -10000,6 +10102,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 38.1 90.17 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0ed90c75-80fd-4f15-a343-5ee221a4df1a")
+		(property "Reference" "J7"
+			(at 34.29 88.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 38.1 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 38.1 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dd332325-1576-4fdb-848a-a27fb10af11c")
+		)
+		(pin "1"
+			(uuid "4fa53a3b-50a5-48a5-9a27-a2f21802432a")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Pers:H5VU10U")
 		(at -91.44 107.95 90)
 		(mirror x)
@@ -10121,6 +10303,83 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 44.45 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0f7ed3b6-82ec-4277-8cbe-ede79cc0f874")
+		(property "Reference" "#PWR051"
+			(at 44.45 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 43.942 82.296 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 44.45 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d64e3163-bac8-49ce-adb2-0a7bcc175fbc")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -11774,6 +12033,133 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 44.45 95.25 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "396ee394-5d75-496e-a369-6dc624d25739")
+		(property "Reference" "R14"
+			(at 41.91 93.9799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100"
+			(at 41.91 96.5199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 42.672 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 44.45 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "X"
+			(at 44.45 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C705627"
+			(at 44.45 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 44.45 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RT0402BRD07100RL"
+			(at 44.45 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "049d25b3-f1a4-4905-97ba-24a0d3f1c13f")
+		)
+		(pin "1"
+			(uuid "aca357f3-4637-4b5c-9971-a4883374285d")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -17343,6 +17729,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 44.45 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa1249c8-31b7-45bc-b6e8-841e47621990")
+		(property "Reference" "#PWR050"
+			(at 44.45 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 44.45 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cdaf8fd2-fd6e-445f-9f72-ec93e719a883")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at -72.39 104.14 90)
 		(mirror x)
@@ -18630,7 +19095,7 @@
 		(dnp no)
 		(uuid "c438abae-7291-46ff-9bdd-f345c3ecf988")
 		(property "Reference" "U6"
-			(at 36.576 135.89 0)
+			(at 54.356 120.142 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18641,7 +19106,7 @@
 			)
 		)
 		(property "Value" "MAX6675"
-			(at 36.576 138.43 0)
+			(at 53.34 138.684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
