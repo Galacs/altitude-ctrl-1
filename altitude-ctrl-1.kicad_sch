@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "5e1880a2-a9e2-4cbe-96e2-fe1be59d322f")
 	(paper "A4")
+	(title_block
+		(title "Altitude CTRL 1")
+		(date "2026-07-08")
+		(rev "01")
+		(company "6NAPSE")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
