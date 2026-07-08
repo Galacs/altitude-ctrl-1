@@ -6620,6 +6620,18 @@
 		(uuid "395b6d7d-d91f-48f8-a8ad-ad78f5d88d86")
 	)
 	(rectangle
+		(start 243.84 67.31)
+		(end 283.21 96.52)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "481d1e32-8706-40d0-9aa3-4ccd9dba3367")
+	)
+	(rectangle
 		(start 73.66 104.14)
 		(end 123.19 142.24)
 		(stroke
@@ -6935,6 +6947,19 @@
 		)
 		(uuid "edb6beff-7301-4b6c-ac63-d3c0d248d01c")
 	)
+	(text "Stepper\nInterface"
+		(exclude_from_sim no)
+		(at 268.224 91.948 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "f02068fd-edd4-45af-a815-ae27080ae701")
+	)
 	(junction
 		(at 264.16 147.32)
 		(diameter 0)
@@ -7090,6 +7115,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "56d10383-87eb-4fb9-8128-9b69a8bf02c3")
+	)
+	(junction
+		(at 255.27 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5875399b-24b2-4860-8fb3-e9c3796e3c8c")
 	)
 	(junction
 		(at 134.62 181.61)
@@ -7527,6 +7558,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 83.82) (xy 266.7 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04a4e24c-4158-42df-bb8a-a734366d23cf")
+	)
+	(wire
+		(pts
 			(xy -22.86 101.6) (xy -27.94 101.6)
 		)
 		(stroke
@@ -7544,6 +7585,16 @@
 			(type default)
 		)
 		(uuid "05f9de4f-b795-47f0-b75c-8e463b9c0a4a")
+	)
+	(wire
+		(pts
+			(xy 255.27 72.39) (xy 267.97 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "061f190d-beb7-44bd-a9f8-472498aa5fc1")
 	)
 	(wire
 		(pts
@@ -8007,6 +8058,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 88.9) (xy 251.46 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27198a82-3b68-4ece-a69d-21d45b5f0e6e")
+	)
+	(wire
+		(pts
 			(xy -97.79 148.59) (xy -96.52 148.59)
 		)
 		(stroke
@@ -8074,6 +8135,16 @@
 			(type default)
 		)
 		(uuid "2b4e873e-83d4-4598-b9f1-549203914265")
+	)
+	(wire
+		(pts
+			(xy 246.38 88.9) (xy 246.38 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b76f144-78d3-4b4b-b19a-89efe54819d3")
 	)
 	(wire
 		(pts
@@ -8937,6 +9008,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 72.39) (xy 246.38 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b536d16-ea94-4b67-9c4a-c71823a49c40")
+	)
+	(wire
+		(pts
 			(xy 66.04 128.27) (xy 60.96 128.27)
 		)
 		(stroke
@@ -9457,6 +9538,26 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 80.01) (xy 261.62 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "923bcfa0-8242-48b3-b8b1-7cf414e9c2a7")
+	)
+	(wire
+		(pts
+			(xy 251.46 74.93) (xy 251.46 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92407f4b-acbb-4353-8811-a22b6f441ef3")
+	)
+	(wire
+		(pts
 			(xy 35.56 128.27) (xy 40.64 128.27)
 		)
 		(stroke
@@ -9464,6 +9565,16 @@
 			(type default)
 		)
 		(uuid "93130a92-3d83-41f8-ba12-1ca8184ae901")
+	)
+	(wire
+		(pts
+			(xy 256.54 77.47) (xy 256.54 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "937b8133-cb66-41fc-9bde-e8fd86ccad9c")
 	)
 	(wire
 		(pts
@@ -10067,6 +10178,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 77.47) (xy 267.97 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf598d1d-1671-408d-8cde-9ed61a578154")
+	)
+	(wire
+		(pts
 			(xy -33.02 115.57) (xy -36.83 115.57)
 		)
 		(stroke
@@ -10134,6 +10255,16 @@
 			(type default)
 		)
 		(uuid "c689333e-eb2b-43f0-b215-b108875d4e30")
+	)
+	(wire
+		(pts
+			(xy 256.54 88.9) (xy 256.54 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6cd2e6b-1916-486a-8508-465fb498273d")
 	)
 	(wire
 		(pts
@@ -10217,6 +10348,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 71.12) (xy 255.27 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8e172e5-99c7-4c53-bec5-a7e3f960d294")
+	)
+	(wire
+		(pts
 			(xy 77.47 127) (xy 83.82 127)
 		)
 		(stroke
@@ -10224,6 +10365,16 @@
 			(type default)
 		)
 		(uuid "c903a8f2-e893-4c8a-993a-a104e75a8b73")
+	)
+	(wire
+		(pts
+			(xy 246.38 72.39) (xy 246.38 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9359790-1d98-4dfc-9df7-fad81e22679c")
 	)
 	(wire
 		(pts
@@ -10347,6 +10498,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 82.55) (xy 267.97 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d65225ec-00c2-41c8-85c4-512f6b128096")
+	)
+	(wire
+		(pts
 			(xy 153.67 137.16) (xy 153.67 135.89)
 		)
 		(stroke
@@ -10457,6 +10618,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 88.9) (xy 261.62 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec93ade-a062-4416-9d0d-9b1bc704e37d")
+	)
+	(wire
+		(pts
 			(xy 276.86 147.32) (xy 276.86 151.13)
 		)
 		(stroke
@@ -10484,6 +10655,16 @@
 			(type default)
 		)
 		(uuid "e1caeb53-6a6c-4ef2-892c-5cc0082adf08")
+	)
+	(wire
+		(pts
+			(xy 261.62 80.01) (xy 267.97 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1d70347-122b-4954-9bd8-60d40f261f33")
 	)
 	(wire
 		(pts
@@ -10634,6 +10815,16 @@
 			(type default)
 		)
 		(uuid "eb96749e-d910-4194-a143-24de8dd13807")
+	)
+	(wire
+		(pts
+			(xy 251.46 74.93) (xy 267.97 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebb1bf52-e53e-472e-bf4a-ada64587481e")
 	)
 	(wire
 		(pts
@@ -11065,6 +11256,16 @@
 		)
 		(uuid "838c492f-4412-4afe-b1f7-c867cdaec595")
 	)
+	(label "EN"
+		(at 262.89 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b2e7bf1-2978-41af-9550-8f097f895ea9")
+	)
 	(label "CAN_TX"
 		(at 234.95 144.78 0)
 		(effects
@@ -11104,6 +11305,16 @@
 			(justify right bottom)
 		)
 		(uuid "a8b56703-b915-4c74-967b-d98d4c022a76")
+	)
+	(label "DIR"
+		(at 262.89 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "beddcbb3-bb61-4ff3-910e-1fd170a08cb1")
 	)
 	(label "SWCLK"
 		(at 52.07 175.26 0)
@@ -11154,6 +11365,16 @@
 			(justify right bottom)
 		)
 		(uuid "dfe97bae-2d7e-4652-8108-d670f500bbf2")
+	)
+	(label "STEP"
+		(at 262.89 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e4f61bf8-7adf-44db-99e0-8e595ac4a783")
 	)
 	(label "NRST"
 		(at 52.07 170.18 0)
@@ -13038,6 +13259,133 @@
 		)
 	)
 	(symbol
+		(lib_id "GLCS:H5VU10U")
+		(at 251.46 85.09 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "22b8431e-084b-4736-a211-5653a8eddc31")
+		(property "Reference" "D17"
+			(at 255.524 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "H5VU10U"
+			(at 248.92 86.3599 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "GLCS:Diode_DFN1006"
+			(at 255.905 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_hongjiacheng-H5VU10U_C22395519.pdf"
+			(at 251.46 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 0.8pF 16V 200nA 55W@8/20us 5A@8/20us 5V 6V ESD IEC 61000-4-2 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
+			(at 251.46 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "E"
+			(at 251.46 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C22395519"
+			(at 251.46 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 251.46 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "H5VU10U"
+			(at 251.46 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf169303-5c73-4172-add0-e25d0f809468")
+		)
+		(pin "2"
+			(uuid "f167d913-c6ea-4a90-a2e1-912fd091c501")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 55.88 191.77 0)
 		(unit 1)
@@ -13767,6 +14115,133 @@
 		)
 	)
 	(symbol
+		(lib_id "GLCS:H5VU10U")
+		(at 261.62 85.09 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2e4667b1-b4f0-4766-88ec-f1b4afecc3cb")
+		(property "Reference" "D19"
+			(at 265.684 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "H5VU10U"
+			(at 259.08 86.3599 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "GLCS:Diode_DFN1006"
+			(at 266.065 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_hongjiacheng-H5VU10U_C22395519.pdf"
+			(at 261.62 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 0.8pF 16V 200nA 55W@8/20us 5A@8/20us 5V 6V ESD IEC 61000-4-2 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
+			(at 261.62 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "E"
+			(at 261.62 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C22395519"
+			(at 261.62 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 261.62 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "H5VU10U"
+			(at 261.62 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c79e638b-cc75-44fe-8da8-082b6bcae875")
+		)
+		(pin "2"
+			(uuid "c57eadcf-ecc0-40c9-b002-98f83fbc28c1")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:Fiducial")
 		(at 181.61 157.48 0)
 		(mirror y)
@@ -13996,6 +14471,164 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 251.46 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30b03e28-7cbf-4ef1-a735-36886bed87a4")
+		(property "Reference" "#PWR065"
+			(at 251.46 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 251.46 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 251.46 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "20d64abf-007e-48b8-bf69-88cad0cd84d8")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 266.7 83.82 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "314161db-7143-4309-a15a-10bd39f67b61")
+		(property "Reference" "#PWR069"
+			(at 266.7 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 266.7 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 266.7 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "58680d3f-fc13-4938-8aa2-772074f63595")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -16058,6 +16691,85 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 256.54 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "516ec27d-ae94-4fc4-8ebc-d3f52f524410")
+		(property "Reference" "#PWR067"
+			(at 256.54 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 256.54 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 256.54 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 256.54 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7cd1ff5b-0585-419e-aadb-9ad942512399")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at -77.47 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -17864,6 +18576,85 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 261.62 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7167202c-6603-4a5c-9032-6df84674910e")
+		(property "Reference" "#PWR068"
+			(at 261.62 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 261.62 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 261.62 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "308bf957-c1a3-42f1-9124-df0d22852e2d")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -19734,6 +20525,84 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 255.27 71.12 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f3f7184-4871-4a74-a051-5bfc7e51bff6")
+		(property "Reference" "#PWR062"
+			(at 255.27 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 258.318 69.342 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 255.27 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 255.27 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6ab4dcd2-cf35-480d-8121-22293e9b34f3")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -24436,6 +25305,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x05")
+		(at 273.05 77.47 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ea9cdcad-353a-45bf-8988-1e8b207dc587")
+		(property "Reference" "J11"
+			(at 275.59 77.4701 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x05"
+			(at 275.59 76.2001 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 273.05 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8329a94c-263a-439b-b74c-d87031c8ccca")
+		)
+		(pin "2"
+			(uuid "07372622-433a-4af8-a0ee-fa3aa3a277d4")
+		)
+		(pin "3"
+			(uuid "ff3475a4-d355-41f9-936a-8c145dc86cdd")
+		)
+		(pin "5"
+			(uuid "6c4e8c5a-4d2f-4bd7-bb59-e7def80ea344")
+		)
+		(pin "4"
+			(uuid "fe3535c7-8a3f-4cac-ae89-de2b01365683")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at -22.86 151.13 0)
 		(mirror x)
@@ -24711,6 +25672,85 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 246.38 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ecd3ea37-0c22-4aa2-8548-a2773ff02b86")
+		(property "Reference" "#PWR064"
+			(at 246.38 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 246.38 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 246.38 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 246.38 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 246.38 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "348bd64c-8852-46ab-9e73-eaf058393413")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -25052,6 +26092,133 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GLCS:H5VU10U")
+		(at 246.38 85.09 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f68757bc-c65b-4325-9c9f-39cf176a97c9")
+		(property "Reference" "D16"
+			(at 250.444 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "H5VU10U"
+			(at 243.84 86.3599 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "GLCS:Diode_DFN1006"
+			(at 250.825 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_hongjiacheng-H5VU10U_C22395519.pdf"
+			(at 246.38 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 0.8pF 16V 200nA 55W@8/20us 5A@8/20us 5V 6V ESD IEC 61000-4-2 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
+			(at 246.38 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "E"
+			(at 246.38 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C22395519"
+			(at 246.38 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 246.38 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "H5VU10U"
+			(at 246.38 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "72c59858-2043-4f08-a1f8-1e2b1391e1cc")
+		)
+		(pin "2"
+			(uuid "e96f6aeb-d30c-4e9d-aed6-b1afbc6b5a7d")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -25536,6 +26703,133 @@
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GLCS:H5VU10U")
+		(at 256.54 85.09 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fc43a4db-2674-4dbe-a946-c08b1fd89a89")
+		(property "Reference" "D18"
+			(at 260.604 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "H5VU10U"
+			(at 254 86.3599 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "GLCS:Diode_DFN1006"
+			(at 260.985 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_hongjiacheng-H5VU10U_C22395519.pdf"
+			(at 256.54 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 0.8pF 16V 200nA 55W@8/20us 5A@8/20us 5V 6V ESD IEC 61000-4-2 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
+			(at 256.54 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "E"
+			(at 256.54 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C22395519"
+			(at 256.54 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 256.54 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "H5VU10U"
+			(at 256.54 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b7e2ae69-3794-44d0-88b1-64a8acdb70d0")
+		)
+		(pin "2"
+			(uuid "f5eb21d1-6147-49d5-ba3b-b67b7814fd8d")
+		)
+		(instances
+			(project "altitude-ctrl-1"
+				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
+					(reference "D18")
 					(unit 1)
 				)
 			)
