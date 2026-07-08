@@ -121,7 +121,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "01419e8a-ecc6-434f-a673-29a9e534796e")
-		(at 134.83 42.06 -90)
+		(at 135.08 42.56 -90)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "SW2"
@@ -538,7 +538,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "03438162-a505-4f5e-ba52-62c8e84df406")
-		(at 176.25 98.5)
+		(at 176.5 99)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -748,7 +748,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "042bfb79-3036-4d59-b8a1-c63c431e0454")
-		(at 211 105.75 180)
+		(at 211.25 106.25 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R14"
@@ -958,7 +958,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "04c302ba-3200-4fb5-8fec-d6a04d319f76")
-		(at 142.075 72.03)
+		(at 142.325 72.53)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D17"
@@ -1484,7 +1484,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "073143ec-0ec8-4ec9-9066-19919ce3e820")
-		(at 191.5 105.5 -90)
+		(at 191.75 106 -90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -1700,7 +1700,7 @@
 		(property "Reference" "R12"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
-			(uuid "5928f586-b4ba-4ad8-aade-a72802f647bc")
+			(uuid "a92127df-f263-4e1b-9f5a-a21f890608ee")
 			(effects
 				(font
 					(size 1 1)
@@ -1711,7 +1711,7 @@
 		(property "Value" "560"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "18d9056f-7008-4cc4-8c54-0b30e094609f")
+			(uuid "9b647c44-671e-49f7-bc08-761f6a2affb5")
 			(effects
 				(font
 					(size 1 1)
@@ -1723,7 +1723,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "588db9c6-116c-4f91-8959-6149f3d749e2")
+			(uuid "aea2e770-57ec-48bc-86f8-2033c7bd78c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1734,7 +1734,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7767a707-9397-4af7-969d-356395ff7aa1")
+			(uuid "3ba1e698-7263-4da3-a7b3-378e160e4807")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1909,7 +1909,7 @@
 		(property "Reference" "Y1"
 			(at 0 -2.8 90)
 			(layer "F.SilkS")
-			(uuid "1dbaaf13-09e0-4f3e-a951-4d4b8f5b153a")
+			(uuid "a88df177-e2cc-48f3-8a69-ba18aba0618f")
 			(effects
 				(font
 					(size 1 1)
@@ -1920,7 +1920,7 @@
 		(property "Value" "8M"
 			(at 0 2.8 90)
 			(layer "F.Fab")
-			(uuid "25d64080-9950-4a8f-8243-c0d28b57be0f")
+			(uuid "1a5c8eca-1541-42c4-bf6f-ab6d54e83886")
 			(effects
 				(font
 					(size 1 1)
@@ -1932,7 +1932,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "442ca810-171c-4a73-a0bb-6420ab95ef67")
+			(uuid "fc94975b-4f59-4ae3-9f07-14b30c6fc0b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,7 +1943,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f5f5bda-02d4-42fd-9bf1-139be071c541")
+			(uuid "a51bbc50-b1f2-4840-9d23-f9a342e4decd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2781,7 +2781,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "23f3b916-6633-4772-97eb-65d222ae4f2c")
-		(at 185.63 113.18)
+		(at 185.88 113.68)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J2"
@@ -3153,7 +3153,7 @@
 		(property "Reference" "C12"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
-			(uuid "7872cba7-8ca9-49be-b149-cbcc78fb000d")
+			(uuid "8b6356bb-0391-4475-a647-b5426171d777")
 			(effects
 				(font
 					(size 1 1)
@@ -3164,7 +3164,7 @@
 		(property "Value" "10u"
 			(at 0 1.68 0)
 			(layer "F.Fab")
-			(uuid "1d63f445-ddfc-46d8-83bd-bd87da754a94")
+			(uuid "9bb5d552-2e04-4279-9cff-135f0e22341b")
 			(effects
 				(font
 					(size 1 1)
@@ -3176,7 +3176,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5371445-fada-4847-b24a-dc0189111e04")
+			(uuid "7009dbc4-cc01-4110-ba4c-107d985f4a20")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3187,7 +3187,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26fa81f3-b2da-40fc-a523-59a68bf15fb9")
+			(uuid "e75d862e-1cde-408a-a72d-efe85214fd88")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3357,7 +3357,7 @@
 	(footprint "GLCS:Texas_RPW0010A_VQFN-HR-10_2x2mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "27112f40-e4f4-4bca-8818-79ab54911c03")
-		(at 187.75 101.75 180)
+		(at 188 102.25 180)
 		(descr "VQFN-HR, 10 Pin (https://www.ti.com/lit/ds/symlink/tps56a37.pdf#page=27)")
 		(tags "VQFN-HR NO LEAD")
 		(property "Reference" "U4"
@@ -3806,7 +3806,7 @@
 		(property "Reference" "FB1"
 			(at 0 -1.55 90)
 			(layer "F.SilkS")
-			(uuid "4b29bae9-ef1b-4861-a00b-6108909c852c")
+			(uuid "20654dee-b164-4ff4-9502-82b5145d8e98")
 			(effects
 				(font
 					(size 1 1)
@@ -3817,7 +3817,7 @@
 		(property "Value" "600Ω@100M"
 			(at 0 1.55 90)
 			(layer "F.Fab")
-			(uuid "43629075-df02-4e77-88fa-db091baa3a16")
+			(uuid "226b47f0-85b0-462a-a615-12535832b286")
 			(effects
 				(font
 					(size 1 1)
@@ -3829,7 +3829,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c06c39de-3c2f-43f0-af9d-1c51e49cd0b4")
+			(uuid "cc75e4c9-a8fa-4b0c-88af-3818e11d4186")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3840,7 +3840,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3804373-69f0-4a9c-94f8-17758e7e3b31")
+			(uuid "de1c3766-985f-4818-8ace-4258da4a2afd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4010,7 +4010,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "2cad1646-1cc7-4973-8b01-39905398fdf6")
-		(at 187.25 105.5 180)
+		(at 187.5 106 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D2"
@@ -4477,7 +4477,7 @@
 	(footprint "GLCS:Texas_RPW0010A_VQFN-HR-10_2x2mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "31f6bfdd-8ca8-4b45-94f0-d0e8967f24f7")
-		(at 178.5 101.75 180)
+		(at 178.75 102.25 180)
 		(descr "VQFN-HR, 10 Pin (https://www.ti.com/lit/ds/symlink/tps56a37.pdf#page=27)")
 		(tags "VQFN-HR NO LEAD")
 		(property "Reference" "U3"
@@ -4920,7 +4920,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "34f1e06f-ef9d-40a8-8ca0-b1dddd37c03b")
-		(at 180.5 100 -90)
+		(at 180.75 100.5 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R7"
@@ -5130,7 +5130,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "3604a7da-576d-46ca-8b0f-439dc2aab8a1")
-		(at 182.5 105.52 90)
+		(at 182.75 106.02 90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -5346,7 +5346,7 @@
 		(property "Reference" "R13"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
-			(uuid "b590c3f2-70ef-4390-a510-0ccb0ce24895")
+			(uuid "325e4203-47dd-4a60-9aa8-17646f4db616")
 			(effects
 				(font
 					(size 1 1)
@@ -5357,7 +5357,7 @@
 		(property "Value" "5k1"
 			(at 0 1.17 0)
 			(layer "F.Fab")
-			(uuid "b35961fc-be9a-406e-b165-dd733b825d17")
+			(uuid "dd7fca2c-5689-4b25-844c-488815c0c23b")
 			(effects
 				(font
 					(size 1 1)
@@ -5369,7 +5369,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "641a17bb-ffb0-4167-9629-fe415e41c604")
+			(uuid "98d4b531-4b05-415f-8be9-d7c5beb8fd5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5380,7 +5380,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ba1f21c-01d9-493d-9325-17331d5c3d5e")
+			(uuid "4b2eabdc-f056-44b3-9dc3-375d8eb21c93")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5550,7 +5550,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "3b93f3be-8490-4928-840d-d23228991123")
-		(at 189 97.75 -90)
+		(at 189.25 98.25 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -5760,7 +5760,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "3ca6daff-2eff-4095-bba7-82306ae1146f")
-		(at 141.9 91.21)
+		(at 142.15 91.71)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D14"
@@ -6031,7 +6031,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3de6e7a9-6ffc-4439-a873-82433e2e8acc")
-		(at 134.83 57.3 -90)
+		(at 135.08 57.8 -90)
 		(descr "Terminal Block Phoenix MKDS-1,5-5-5.08, 5 pins, pitch 5.08mm, size 25.4x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-5-5.08 pitch 5.08mm size 25.4x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J7"
@@ -6523,7 +6523,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "401f0d5e-3a75-4b2c-b744-a6ae14418a81")
-		(at 141.9 95.19)
+		(at 142.15 95.69)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D18"
@@ -6794,7 +6794,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "49a8f016-f9fc-43a6-833e-c0d9fe8fb562")
-		(at 176.25 96.5)
+		(at 176.5 97)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -7349,7 +7349,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "557dd98b-134a-4d3e-9277-a9026812648f")
-		(at 181.75 102.75 -90)
+		(at 182 103.25 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -7877,7 +7877,7 @@
 		(property "Reference" "U6"
 			(at 0 -5.85 0)
 			(layer "F.SilkS")
-			(uuid "4bd636d9-4adf-4a67-8183-52ecc048986c")
+			(uuid "7cb5b083-5636-4529-a435-d3432375f2ef")
 			(effects
 				(font
 					(size 1 1)
@@ -7888,7 +7888,7 @@
 		(property "Value" "STM32F103C8Tx"
 			(at 0 5.85 0)
 			(layer "F.Fab")
-			(uuid "4ba04164-8bc8-410a-b721-9e55883d3618")
+			(uuid "ffd0755d-f19e-4a69-81d1-954cc780f4e1")
 			(effects
 				(font
 					(size 1 1)
@@ -7900,7 +7900,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2112f4fb-e879-43d0-9d12-69028d2fa464")
+			(uuid "9f926c54-bf05-471d-8a18-57e21e0e6467")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7911,7 +7911,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c12a748-e20f-4fcb-ba0f-2e31cccb26c9")
+			(uuid "9f06d55d-11fb-4c81-a253-762e4cceecf7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8926,7 +8926,7 @@
 	(footprint "LED_SMD:LED_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "65507e6b-29ec-42c3-88c7-9c5c022f7b79")
-		(at 191.25 97.75 -90)
+		(at 191.5 98.25 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
 		(property "Reference" "D4"
@@ -9722,7 +9722,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "66a905fa-6148-4afb-9fd4-64936a086862")
-		(at 186.25 99)
+		(at 186.5 99.5)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -9932,7 +9932,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "67a651ce-5459-4495-85ca-fe7f1a3409f1")
-		(at 141.9 89.22)
+		(at 142.15 89.72)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D12"
@@ -10413,7 +10413,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7730f292-9dc9-48df-8a45-3b152901c909")
-		(at 175.47 113.18)
+		(at 175.72 113.68)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J1"
@@ -10785,7 +10785,7 @@
 		(property "Reference" "C21"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
-			(uuid "cd55f157-c118-41f2-9af0-e991c2fc282a")
+			(uuid "9bb272b2-fbff-44c6-a33a-c07cb08cb340")
 			(effects
 				(font
 					(size 1 1)
@@ -10796,7 +10796,7 @@
 		(property "Value" "1u"
 			(at 0 1.16 90)
 			(layer "F.Fab")
-			(uuid "43ded2ed-8a0a-4fc1-9e17-11f79673b635")
+			(uuid "ff39cea7-6fa3-4eb0-a625-a8ac11cf242b")
 			(effects
 				(font
 					(size 1 1)
@@ -10808,7 +10808,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "118e8d9b-ff54-4742-8645-17635029b095")
+			(uuid "30dda11b-cb41-4077-ba92-3432304f1806")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10819,7 +10819,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6f91904-0eb3-4f66-a1c1-41cad96b1373")
+			(uuid "42f9d5f4-4681-496e-83e6-91ee81bd6b50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11316,7 +11316,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "875b8845-756c-4d0d-8d4e-5b9d79ee4512")
-		(at 141.9 93.2)
+		(at 142.15 93.7)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D16"
@@ -11587,7 +11587,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8be7998e-fa2c-4199-845c-eeaaafbda5b6")
-		(at 211.03 113.18)
+		(at 211.28 113.68)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J6"
@@ -12721,7 +12721,7 @@
 		(property "Reference" "C20"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
-			(uuid "3ed7640f-2697-44f2-add1-153e22708ab8")
+			(uuid "86e43d38-8662-4a19-b0cb-f21c9245b5e2")
 			(effects
 				(font
 					(size 1 1)
@@ -12732,7 +12732,7 @@
 		(property "Value" "1u"
 			(at 0 1.16 90)
 			(layer "F.Fab")
-			(uuid "3591047a-66b7-46ec-bc63-d180a2d1f9f2")
+			(uuid "8915a05e-7640-46bc-96a8-0c15469d40e0")
 			(effects
 				(font
 					(size 1 1)
@@ -12744,7 +12744,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c04d4628-7315-4075-8ab5-53b28aa651f1")
+			(uuid "be8a317a-3249-42a9-8f4a-a034b3f0d561")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12755,7 +12755,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ccc7ccb5-129e-4884-b923-c57e45ff34d3")
+			(uuid "18b91b16-11d7-40d2-837f-92b02d3e3025")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12925,7 +12925,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "90d60609-0f54-4a32-8e56-2c78b548c6e8")
-		(at 213.75 34.5 90)
+		(at 136 113 90)
 		(descr "Mounting Hole 3.2mm, M3, generated by kicad-footprint-generator mountinghole.py")
 		(tags "mountinghole M3")
 		(property "Reference" "H5"
@@ -13142,7 +13142,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
 		(layer "F.Cu")
 		(uuid "914b3a05-6562-4cf6-a651-9ae296c410dc")
-		(at 161.99 103 180)
+		(at 162.24 103.5 180)
 		(descr "SMD pad as test Point, diameter 2.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP1"
@@ -13252,7 +13252,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "91e3efe0-ba5b-4e43-ab33-f9f0838801fb")
-		(at 179 97.25 -90)
+		(at 179.25 97.75 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C9"
@@ -13462,7 +13462,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "93343ddf-4769-4716-873f-36f14b499e79")
-		(at 200.87 113.18)
+		(at 201.12 113.68)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "TC1"
@@ -14069,7 +14069,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "9baffe26-8135-4217-9dcb-170b01329b2e")
-		(at 191.25 100.5 180)
+		(at 191.5 101 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R8"
@@ -14285,7 +14285,7 @@
 		(property "Reference" "C18"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "4be33d5d-ed3a-49ef-a795-320449f9e304")
+			(uuid "4a62dcbd-13fd-4313-a760-fd8cd43a1c80")
 			(effects
 				(font
 					(size 1 1)
@@ -14296,7 +14296,7 @@
 		(property "Value" "0u1"
 			(at 0 1.16 0)
 			(layer "F.Fab")
-			(uuid "e06a0208-da0f-423a-b81f-53912950eb58")
+			(uuid "95ed0464-8056-481b-a18b-b648b79a16a4")
 			(effects
 				(font
 					(size 1 1)
@@ -14308,7 +14308,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92ce4d06-3cab-4746-a864-cdd3c3a4f5f6")
+			(uuid "24fe36e5-460b-4048-8374-c1eb13f33f7d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14319,7 +14319,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d8d3d70-efb1-42a4-b023-1c58730eb96a")
+			(uuid "dcff9886-c8a9-4dc8-8eba-52ac9fd3d96d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14489,7 +14489,7 @@
 	(footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "9d4f6bdf-3563-488e-9a90-439005acac89")
-		(at 154.74 103 -90)
+		(at 154.99 103.5 -90)
 		(descr "SOIC, 16 Pin (JEDEC MS-012, variation AC, https://www.jedec.org/document_search?search_api_views_fulltext=MS-012, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf)")
 		(tags "SOIC SO 16-pin-NSOP R-16 R-16-S D0016A M2B SO16 SOT109-1 751B SOIC_N narrow")
 		(property "Reference" "U2"
@@ -15011,7 +15011,7 @@
 		(property "Reference" "C15"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
-			(uuid "28aed39c-6515-429e-a6ac-a2f25438e70f")
+			(uuid "47b9c1cf-c10b-4f6f-a499-ab574595ada0")
 			(effects
 				(font
 					(size 1 1)
@@ -15022,7 +15022,7 @@
 		(property "Value" "20p"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "85df110d-d285-4451-b854-87e7accf79c6")
+			(uuid "6d024637-667b-41f4-bd69-a8e4c7c3ed97")
 			(effects
 				(font
 					(size 1 1)
@@ -15034,7 +15034,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bba10eef-26cc-4118-83bb-c1f959e32a6e")
+			(uuid "9c2cbdb6-a09e-496e-a93f-f0c383d95f4a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15045,7 +15045,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c518bb49-ff9d-4767-a077-6d771e07808b")
+			(uuid "3439e641-6de3-49c1-bc21-454bcf7b4f54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15215,7 +15215,7 @@
 	(footprint "LED_SMD:LED_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "a40dbcfe-f28f-45e4-9f12-627f5ec93561")
-		(at 181.25 97.25 -90)
+		(at 181.5 97.75 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
 		(property "Reference" "D3"
@@ -15776,7 +15776,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "aa1018a0-876c-4fc5-8517-65d55227131e")
-		(at 191 102.75 -90)
+		(at 191.25 103.25 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -16398,7 +16398,7 @@
 		(property "Reference" "D10"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
-			(uuid "77b0cc8f-df15-47b1-bcef-1c47b83c2665")
+			(uuid "e8adb522-fc37-443c-a17f-a65809ba1d6c")
 			(effects
 				(font
 					(size 1 1)
@@ -16409,7 +16409,7 @@
 		(property "Value" "YELLOW"
 			(at 0 1.65 0)
 			(layer "F.Fab")
-			(uuid "41734578-da1d-4cd2-bb3c-aa79ae37b0e8")
+			(uuid "4750bc05-6eee-46d4-8d66-f33663a5a6c0")
 			(effects
 				(font
 					(size 1 1)
@@ -16421,7 +16421,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "811cd97d-6d75-4525-a0c1-12dc08310cd9")
+			(uuid "81c6c478-6e12-4190-b6aa-24f016eed5d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16432,7 +16432,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b282f298-dd76-48a2-9041-d1ce3bb48cd0")
+			(uuid "170bb133-c586-4ab2-b729-647e06cebc76")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16666,7 +16666,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "adf6a599-c8d1-48a5-8776-880366b1b6b9")
-		(at 134.83 82.7 -90)
+		(at 135.08 83.2 -90)
 		(descr "Terminal Block Phoenix MKDS-1,5-5-5.08, 5 pins, pitch 5.08mm, size 25.4x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-5-5.08 pitch 5.08mm size 25.4x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J8"
@@ -17655,7 +17655,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "b01241f3-7a15-46a8-ba60-3c0e076d67ef")
-		(at 190 102.74 -90)
+		(at 190.25 103.24 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -17871,7 +17871,7 @@
 		(property "Reference" "R11"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
-			(uuid "de0165a9-72ec-4cf3-8249-b76640603aa7")
+			(uuid "9e72d957-5a70-4790-ad05-a35259b002df")
 			(effects
 				(font
 					(size 1 1)
@@ -17882,7 +17882,7 @@
 		(property "Value" "10k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
-			(uuid "2fe65f35-9417-4c8d-a0f2-1389f3a83465")
+			(uuid "7bb5a61e-e5ae-4538-9775-814c835c7cc2")
 			(effects
 				(font
 					(size 1 1)
@@ -17894,7 +17894,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c6eae558-e5be-40ae-95a8-7a432d12f1a6")
+			(uuid "2f8ad760-94c9-4a41-8bf3-3904dc62f5da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17905,7 +17905,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c60528d1-67a1-49b6-8094-dfb5bde4f018")
+			(uuid "97eadd22-2d13-4bdc-bb73-7f616662b397")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18346,7 +18346,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c23b1a4e-bcd7-4f16-b781-b5042cb99bb1")
-		(at 181.75 100 90)
+		(at 182 100.5 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R5"
@@ -18556,7 +18556,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "ccddf62f-7f40-409d-ac39-89d527a659ee")
-		(at 142.075 70.04)
+		(at 142.325 70.54)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D15"
@@ -18827,7 +18827,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ce9f76ec-4bc2-4812-86e1-4e5059cdeb72")
-		(at 179 99.5)
+		(at 179.25 100)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R6"
@@ -19247,7 +19247,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "d163302c-7069-410b-b65d-e6794d752484")
-		(at 142.075 68.05)
+		(at 142.325 68.55)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D13"
@@ -19524,7 +19524,7 @@
 		(property "Reference" "C17"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "a934280b-c0e5-492e-87c4-e4e0aa1b0525")
+			(uuid "be479db6-5388-434d-a949-93cb3498365b")
 			(effects
 				(font
 					(size 1 1)
@@ -19535,7 +19535,7 @@
 		(property "Value" "0u1"
 			(at 0 1.16 0)
 			(layer "F.Fab")
-			(uuid "e215669d-e2d5-4879-bc36-390a829f867e")
+			(uuid "58eef28d-7c8f-4f22-a03d-21785d7b29ec")
 			(effects
 				(font
 					(size 1 1)
@@ -19547,7 +19547,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ce2c3e3-33f9-4b58-b6f2-e7315516ecba")
+			(uuid "44f3d77e-06f2-4a41-b168-7ac2d9e2f9ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19558,7 +19558,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6cda9dc1-1cca-46c5-9a67-82359bf4a3d7")
+			(uuid "6a6f9be3-3dd1-451b-8612-a5a7c0398155")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19728,7 +19728,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "d6242c34-469a-4973-89f1-6af0ad33a8fb")
-		(at 207.5 103 -90)
+		(at 207.75 103.5 -90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C11"
@@ -19944,7 +19944,7 @@
 		(property "Reference" "C19"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "de94bc41-17c7-4bd1-95d8-1620bebcf767")
+			(uuid "ce7d4004-de97-44ac-9d33-bef750f6f3a6")
 			(effects
 				(font
 					(size 1 1)
@@ -19955,7 +19955,7 @@
 		(property "Value" "0u1"
 			(at 0 1.16 0)
 			(layer "F.Fab")
-			(uuid "16fe7863-f4b1-4a9d-b6fd-7b940e80fadf")
+			(uuid "b3f5f3af-5e1c-4026-ad8d-7d5710d665a6")
 			(effects
 				(font
 					(size 1 1)
@@ -19967,7 +19967,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f112e96-48e0-4b5e-b984-639a92b8e635")
+			(uuid "c8f70a7e-9de5-4d21-b422-f8c5b986d674")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19978,7 +19978,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ff6a417-74a6-417d-9653-ea39c9ce1e9c")
+			(uuid "3bcb4f4b-cf17-4a9d-bd78-e8dbf50cec5b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20148,7 +20148,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "e00c4dc2-a4a8-4989-bb0c-68994a819853")
-		(at 146.75 34.5 90)
+		(at 147 35 90)
 		(descr "Mounting Hole 3.2mm, M3, generated by kicad-footprint-generator mountinghole.py")
 		(tags "mountinghole M3")
 		(property "Reference" "H6"
@@ -20759,7 +20759,7 @@
 		(property "Reference" "C16"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "f2a7a8fc-786d-4597-9c08-476ec91711a0")
+			(uuid "79407700-f546-402c-99af-9ed106089785")
 			(effects
 				(font
 					(size 1 1)
@@ -20770,7 +20770,7 @@
 		(property "Value" "0u1"
 			(at 0 1.16 0)
 			(layer "F.Fab")
-			(uuid "861b5bac-9bf1-4896-94c0-691134c89f6e")
+			(uuid "cfd3648b-3d66-40ea-be22-9d2494b93989")
 			(effects
 				(font
 					(size 1 1)
@@ -20782,7 +20782,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b42a5393-5693-4030-9548-a75d550cb47d")
+			(uuid "acadff57-b258-42a3-ae94-a0986c9d14ff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20793,7 +20793,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2cba55e5-ec85-47db-b460-3c81be8f84c9")
+			(uuid "d846c4ac-97e6-41f2-b6be-13b47c83fa70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20963,7 +20963,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e8789b09-4305-4e30-9818-c1bdfabc8ec7")
-		(at 180.75 102.75 90)
+		(at 181 103.25 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -21173,7 +21173,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "eab0339b-b641-404d-a6da-d0e358c4e47c")
-		(at 186.25 97)
+		(at 186.5 97.5)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C10"
@@ -21651,223 +21651,6 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-		(layer "F.Cu")
-		(uuid "f0560bfc-eb52-413c-bd0f-67a990c7e684")
-		(at 135.75 112.5 90)
-		(descr "Mounting Hole 3.2mm, M3, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M3")
-		(property "Reference" "H7"
-			(at 0 -4.15 90)
-			(layer "F.SilkS")
-			(uuid "7f1be766-887b-4165-a8de-3bcacd3b90e6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 0 4.15 90)
-			(layer "F.Fab")
-			(uuid "6b6943a2-8f62-4082-b511-993ea12644d9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "028c8554-0399-4717-a98a-94ae5cd85b02")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0cf789eb-6e7a-4d0d-8952-73efafc98b4b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9c73891e-efac-47c1-a17f-0df0043103a3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*Pad*")
-		(path "/71a7e173-b74a-492b-9622-9fc510091080")
-		(sheetname "/")
-		(sheetfile "altitude-ctrl-1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr exclude_from_bom)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "50546757-a222-4e0a-ad29-4d1719fbeda4")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "20382084-846e-49b7-8ee8-3ad36ce2d218")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(uuid "2bc696ef-6f4c-4e7a-b72c-e6498926f7e1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at -2.4 0 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "5473fb2d-bbba-4589-9b04-635de3f26f7e")
-		)
-		(pad "1" thru_hole circle
-			(at -1.697056 -1.697056 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "2be4f90c-d472-467b-a3ea-22fd2a3c43e4")
-		)
-		(pad "1" thru_hole circle
-			(at -1.697056 1.697056 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "26baf70a-7d49-4288-bc66-cb74e4d5bb7d")
-		)
-		(pad "1" thru_hole circle
-			(at 0 -2.4 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "4ad54f35-27ea-4f0e-95cf-afb0b0436d86")
-		)
-		(pad "1" thru_hole circle
-			(at 0 0 90)
-			(size 6.4 6.4)
-			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "cec41861-d49c-480d-82cf-622a199320b3")
-		)
-		(pad "1" thru_hole circle
-			(at 0 2.4 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "9b08e4aa-0b3e-4bba-9672-a9ec2176aa64")
-		)
-		(pad "1" thru_hole circle
-			(at 1.697056 -1.697056 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "380a13a1-774c-4a6c-997d-5c174ff1d843")
-		)
-		(pad "1" thru_hole circle
-			(at 1.697056 1.697056 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "87da7fe2-627e-4566-9264-eec06a6fa15e")
-		)
-		(pad "1" thru_hole circle
-			(at 2.4 0 90)
-			(size 0.8 0.8)
-			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "input")
-			(zone_connect 2)
-			(uuid "17fcd5f1-ce6a-4eec-9817-9b0748720711")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "Button_Switch_SMD:SW_SPST_TS-1088-xR020"
 		(layer "F.Cu")
 		(uuid "f10e1b93-efc1-442d-981a-a24e9aa669cb")
@@ -22183,7 +21966,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f121fb37-6caf-45bd-bd91-11201b6aea15")
-		(at 134.83 31.9 -90)
+		(at 135.08 32.4 -90)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "SW4"
@@ -22600,7 +22383,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "f18a30ac-6b1d-4c13-a124-780a1e7f6318")
-		(at 213.75 99.5 90)
+		(at 214 100 90)
 		(descr "Mounting Hole 3.2mm, M3, generated by kicad-footprint-generator mountinghole.py")
 		(tags "mountinghole M3")
 		(property "Reference" "H4"
@@ -22823,7 +22606,7 @@
 		(property "Reference" "R10"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
-			(uuid "b3f9b357-be22-4bac-93c0-6454a89233da")
+			(uuid "e909a3b6-eb2f-46cc-8b84-e3114500a7de")
 			(effects
 				(font
 					(size 1 1)
@@ -22834,7 +22617,7 @@
 		(property "Value" "10k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
-			(uuid "e4e2b6ab-eaa3-49dc-b607-2c7b0c088c6e")
+			(uuid "d6266ff5-600f-41fc-9fd5-c45314120f92")
 			(effects
 				(font
 					(size 1 1)
@@ -22846,7 +22629,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4954f3a7-ed5a-4b74-9563-3f9070255f1a")
+			(uuid "181eb0b2-d72e-4403-9ae1-cb29f95eb596")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22857,7 +22640,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bfbc56e9-ade2-43c3-b71a-aac1d160e2eb")
+			(uuid "b8b2ecf0-87db-4e77-9078-66b94281761f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23027,7 +22810,7 @@
 	(footprint "GLCS:Diode_DFN1006"
 		(layer "F.Cu")
 		(uuid "fb52570d-0bac-4095-ad91-a634eb7732b1")
-		(at 142.075 66.06)
+		(at 142.325 66.56)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D11"
@@ -23298,7 +23081,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "fb91497d-40a0-4ebe-8989-14f546a39dc3")
-		(at 178.25 105.5 180)
+		(at 178.5 106 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
@@ -23630,7 +23413,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "fbd92d6c-703b-4366-b256-b5335cebc564")
-		(at 203 104.5 180)
+		(at 203.25 105 180)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf)")
 		(tags "SOIC SO")
 		(property "Reference" "U5"
@@ -24064,7 +23847,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fecc4709-1ab1-4e77-a7ac-70fbff24a68d")
-		(at 144.99 113.18)
+		(at 145.24 113.68)
 		(descr "Terminal Block Phoenix MKDS-1,5-5-5.08, 5 pins, pitch 5.08mm, size 25.4x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-5-5.08 pitch 5.08mm size 25.4x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J3"
@@ -24562,7 +24345,7 @@
 		(property "Reference" "C14"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
-			(uuid "07d98c61-09c8-4a20-ae8d-da0bf0857f9b")
+			(uuid "b2a6fdff-11f9-4273-a7c0-3c46c185d07a")
 			(effects
 				(font
 					(size 1 1)
@@ -24573,7 +24356,7 @@
 		(property "Value" "20p"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "30fb2378-e09c-4ebf-a4ff-c514a0a18e4d")
+			(uuid "6611ee30-acb2-4687-bf9c-1c9684782566")
 			(effects
 				(font
 					(size 1 1)
@@ -24585,7 +24368,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec9d2b59-3342-4e41-9d6d-9b7b17bc128a")
+			(uuid "6193aa1f-7d23-48e1-ad0e-7039a8547449")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24596,7 +24379,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14e66391-1521-4bb8-b392-dd06b5a1785d")
+			(uuid "bfcde38c-9ad8-4629-89c6-b692e89d2570")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24764,9 +24547,9 @@
 		)
 	)
 	(gr_arc
-		(start 129.75 30.5)
-		(mid 130.335786 29.085786)
-		(end 131.75 28.5)
+		(start 130 31)
+		(mid 130.585786 29.585786)
+		(end 132 29)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -24775,8 +24558,8 @@
 		(uuid "8b3b6df7-94d5-4ea5-8442-13f6aeae0dda")
 	)
 	(gr_line
-		(start 129.75 112.5)
-		(end 129.75 30.5)
+		(start 130 113)
+		(end 130 31)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -24785,8 +24568,8 @@
 		(uuid "62693ec9-9d21-4f4d-8c8b-887e4476e99d")
 	)
 	(gr_line
-		(start 131.75 28.5)
-		(end 213.75 28.5)
+		(start 132 29)
+		(end 147.565501 29)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -24795,9 +24578,9 @@
 		(uuid "4ab02d76-cb84-44eb-bcc2-34dc72de0ab7")
 	)
 	(gr_arc
-		(start 135.75 118.5)
-		(mid 131.507359 116.742641)
-		(end 129.75 112.5)
+		(start 136 119)
+		(mid 131.757359 117.242641)
+		(end 130 113)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -24806,19 +24589,19 @@
 		(uuid "d4cab896-ebc1-4043-b970-3ff0da67596b")
 	)
 	(gr_arc
-		(start 213.75 28.5)
-		(mid 217.992641 30.257359)
-		(end 219.75 34.5)
+		(start 147.565501 29)
+		(mid 149.821376 29.440231)
+		(end 151.746215 30.696323)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "306a1a8f-5fe6-4ffb-a1d9-a20e0e0493f5")
+		(uuid "02bc2107-9a42-4464-adb0-e65783042514")
 	)
 	(gr_line
-		(start 217.75 118.5)
-		(end 135.75 118.5)
+		(start 218 119)
+		(end 136 119)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -24827,25 +24610,46 @@
 		(uuid "a522ec55-2687-4bbe-b607-baed01bb497c")
 	)
 	(gr_line
-		(start 219.75 34.5)
-		(end 219.75 116.5)
+		(start 218.180714 95.232694)
+		(end 151.746215 30.696323)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "5c2a247b-9e15-4e2a-ac90-0195aa198cba")
+		(uuid "6fa90d4e-84ad-467f-aa33-ac66694f6143")
 	)
 	(gr_arc
-		(start 219.75 116.5)
-		(mid 219.164214 117.914214)
-		(end 217.75 118.5)
+		(start 218.180714 95.232694)
+		(mid 219.526504 97.200163)
+		(end 220 99.53637)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2f62019d-33a8-4d00-a795-c0133e4de0d8")
+	)
+	(gr_arc
+		(start 220 117)
+		(mid 219.414214 118.414214)
+		(end 218 119)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "fbf16b3a-7cb8-42c7-af56-2e60bdc6d785")
+	)
+	(gr_line
+		(start 220 117)
+		(end 220 99.53637)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7cf958e9-e60f-4632-b29e-24f3a85fc981")
 	)
 	(embedded_fonts no)
 )
