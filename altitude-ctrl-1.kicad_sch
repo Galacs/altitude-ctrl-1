@@ -11876,7 +11876,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "005c6d21-3553-4f46-865c-e089c3616640")
-		(property "Reference" "C10"
+		(property "Reference" "C15"
 			(at 144.78 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11982,7 +11982,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C10")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -12000,7 +12000,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06b64fa4-f094-4de0-a2a0-7be9dcc99fe6")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR019"
 			(at 52.07 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -12061,7 +12061,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR08")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -12078,7 +12078,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "06dd1130-2ac3-48c0-b572-d77778bac73f")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR035"
 			(at 111.76 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -12138,7 +12138,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR01")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12155,7 +12155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07697ab4-ec7c-4928-a8ef-7d462fd9b90a")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR017"
 			(at 50.8 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12215,7 +12215,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR032")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -12233,7 +12233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07f5fa3b-8cec-4ac7-95fc-1e37677bba70")
-		(property "Reference" "R10"
+		(property "Reference" "R3"
 			(at 46.228 171.196 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12341,7 +12341,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R10")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -12359,7 +12359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bd309dd-ca8c-4b87-901f-929fda616a01")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR06"
 			(at 27.94 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -12420,7 +12420,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR016")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -12437,7 +12437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e05093d-d6a1-4555-99d0-57931af46c41")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR051"
 			(at 224.79 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -12499,7 +12499,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR038")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -12517,7 +12517,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e764290-17b0-49e1-b0c9-858e28a0e8d3")
-		(property "Reference" "D12"
+		(property "Reference" "D18"
 			(at 266.954 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12626,7 +12626,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D12")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -12644,7 +12644,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ed90c75-80fd-4f15-a343-5ee221a4df1a")
-		(property "Reference" "J7"
+		(property "Reference" "J6"
 			(at 274.32 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12707,7 +12707,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J7")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -12725,7 +12725,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f4b7645-9456-4d3e-a6b1-4ba2470a5027")
-		(property "Reference" "D11"
+		(property "Reference" "D1"
 			(at 23.368 127.254 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12834,7 +12834,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D11")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -12852,7 +12852,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f7ed3b6-82ec-4277-8cbe-ede79cc0f874")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR068"
 			(at 264.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12912,7 +12912,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR051")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -12930,7 +12930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1586a9cb-85fb-430c-ba0f-878631212b88")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR067"
 			(at 262.89 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12991,7 +12991,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR058")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -13009,7 +13009,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1953e2f6-5d5e-4517-bbcd-55201110c3e2")
-		(property "Reference" "C13"
+		(property "Reference" "C4"
 			(at 52.07 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13117,7 +13117,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C13")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -13135,7 +13135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19af1dd5-6ffb-4efc-b420-5f50585aa787")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR037"
 			(at 121.92 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -13196,7 +13196,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR048")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -13292,7 +13292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1be58681-deb7-4bbc-a66f-1d4bf77e4f8d")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR048"
 			(at 207.01 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13353,7 +13353,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR035")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -13371,7 +13371,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d63ba16-866a-452f-b8a0-e26595f8a6e4")
-		(property "Reference" "R13"
+		(property "Reference" "R5"
 			(at 78.994 146.05 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13477,7 +13477,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R13")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -13494,7 +13494,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e1c2927-d329-4afa-b95b-351106de98d6")
-		(property "Reference" "H3"
+		(property "Reference" "H6"
 			(at 215.9 146.304 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13555,7 +13555,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H3")
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -13573,7 +13573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e71543c-c64a-4f80-80c8-83fa77b56f6c")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR024"
 			(at 72.39 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -13634,7 +13634,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR017")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13651,7 +13651,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e89f44d-bef5-4c42-8886-b8199232206f")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR034"
 			(at 101.6 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -13711,7 +13711,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR041")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -13729,7 +13729,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ef4da56-efd1-4801-83bb-e766ccf5db4c")
-		(property "Reference" "C8"
+		(property "Reference" "C1"
 			(at 21.59 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13837,7 +13837,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C8")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -13855,7 +13855,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22b8431e-084b-4736-a211-5653a8eddc31")
-		(property "Reference" "D17"
+		(property "Reference" "D13"
 			(at 256.794 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13964,7 +13964,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D17")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -13982,7 +13982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2409bd66-2247-4e72-82e7-0f39d6c610a4")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR038"
 			(at 127 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -14043,7 +14043,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR011")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -14061,7 +14061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24551f57-25ca-4bc1-bed7-a538439252f0")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR015"
 			(at 48.26 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -14122,7 +14122,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR031")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -14139,7 +14139,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24952fc5-cb7f-46fd-9737-df87aac06b44")
-		(property "Reference" "R11"
+		(property "Reference" "R2"
 			(at 41.91 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14247,7 +14247,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R11")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -14265,7 +14265,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26f36070-bec9-48fb-af96-b8ea315cb51a")
-		(property "Reference" "D10"
+		(property "Reference" "D2"
 			(at 29.21 166.116 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14374,7 +14374,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D10")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -14392,7 +14392,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "294c47a3-bebb-4814-93a9-472afa99cd49")
-		(property "Reference" "J3"
+		(property "Reference" "J9"
 			(at 277.114 137.668 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14456,7 +14456,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J3")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -14474,7 +14474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a4e58ac-8807-49c5-ab9e-9f880af08761")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR031"
 			(at 96.52 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -14535,7 +14535,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR042")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -14553,7 +14553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ab81d98-9d62-42e8-9f10-f279b5c0bcb7")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR065"
 			(at 257.81 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14614,7 +14614,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR059")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -14631,7 +14631,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2c8988eb-44fe-4526-8ddc-050af34f04ed")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR027"
 			(at 80.01 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14692,7 +14692,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR022")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -14710,7 +14710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cce41e7-d4ae-4ea1-aa66-2a0f58da3775")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG03"
 			(at 25.4 160.655 0)
 			(hide yes)
 			(show_name no)
@@ -14771,7 +14771,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#FLG02")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -14789,7 +14789,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e4667b1-b4f0-4766-88ec-f1b4afecc3cb")
-		(property "Reference" "D19"
+		(property "Reference" "D17"
 			(at 266.954 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14898,7 +14898,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D19")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -14994,7 +14994,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f25988b-ad90-4a39-b977-4f34acc451b9")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR044"
 			(at 153.67 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -15054,7 +15054,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR063")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -15073,7 +15073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3040e531-85c1-4766-8a26-b9b8b1a71bc4")
-		(property "Reference" "H5"
+		(property "Reference" "H1"
 			(at 189.23 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15132,7 +15132,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H5")
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -15150,7 +15150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "306511fe-a9d2-4104-9f93-026ac15cad00")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR023"
 			(at 68.58 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -15211,7 +15211,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR018")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -15229,7 +15229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30b03e28-7cbf-4ef1-a735-36886bed87a4")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR058"
 			(at 252.73 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -15290,7 +15290,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR065")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -15308,7 +15308,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "314161db-7143-4309-a15a-10bd39f67b61")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR070"
 			(at 267.97 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -15369,7 +15369,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR069")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -15511,7 +15511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35f6188c-7b91-430b-ae83-c3b6748deef6")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR012"
 			(at 39.37 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -15572,7 +15572,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR052")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -15590,7 +15590,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "38d21eab-141b-4b84-b691-174111bf0f53")
-		(property "Reference" "C2"
+		(property "Reference" "C22"
 			(at 243.84 132.588 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15696,7 +15696,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C2")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -15840,7 +15840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ac7e073-a491-4bef-8d9d-1aa7067ff2b7")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 63.5 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -15901,7 +15901,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR020")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -15918,7 +15918,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b9d7bf8-f6a7-43bd-99b2-e4dc898a3dc7")
-		(property "Reference" "C4"
+		(property "Reference" "C2"
 			(at 32.766 127.254 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16026,7 +16026,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C4")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -16044,7 +16044,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "401e6963-b543-4ef4-995e-78e2a6daa42d")
-		(property "Reference" "C18"
+		(property "Reference" "C6"
 			(at 84.328 160.782 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16152,7 +16152,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C18")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -16170,7 +16170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "408d1be2-e5cc-42e8-8a0a-6d2b8580634c")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR028"
 			(at 80.01 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -16231,7 +16231,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR071")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -16249,7 +16249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40b57c1c-0b3d-4e6e-a973-808439f956d0")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR055"
 			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -16310,7 +16310,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR05")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -16328,7 +16328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42b1632d-9d85-4a11-aefb-587daa4bb46c")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR04"
 			(at 25.4 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -16389,7 +16389,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR028")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -16407,7 +16407,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4579ab7d-79bb-4293-9f18-b4188cb1daab")
-		(property "Reference" "R20"
+		(property "Reference" "R10"
 			(at 149.098 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16513,7 +16513,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R20")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -16531,7 +16531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46eb6760-2d1e-43e2-a4e1-26fb74a44c90")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR061"
 			(at 252.73 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -16592,7 +16592,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR013")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -16610,7 +16610,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48c413be-6b92-4993-aff7-971caeb8b4e3")
-		(property "Reference" "C22"
+		(property "Reference" "C7"
 			(at 88.138 116.332 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16718,7 +16718,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C22")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -16735,7 +16735,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48dc32ec-9b83-4170-a7d9-41261c993ed8")
-		(property "Reference" "D3"
+		(property "Reference" "D6"
 			(at 134.874 184.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16844,7 +16844,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D3")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -16861,7 +16861,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4aa9ac28-212e-40c7-b3c7-bc621f79ea0a")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 31.496 60.452 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16971,7 +16971,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -16988,7 +16988,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b3e095e-c877-4a3d-b35e-c4ca3b021701")
-		(property "Reference" "U4"
+		(property "Reference" "U6"
 			(at 172.466 131.826 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17251,7 +17251,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U4")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -17393,7 +17393,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4cb779ca-5188-4cd3-9b98-972f80977a25")
-		(property "Reference" "C14"
+		(property "Reference" "C18"
 			(at 171.704 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17501,7 +17501,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C14")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -17646,7 +17646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516ec27d-ae94-4fc4-8ebc-d3f52f524410")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR064"
 			(at 257.81 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -17707,7 +17707,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR067")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -17725,7 +17725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5296299e-bd77-4d83-aa3d-84dd6f9d12a7")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG01"
 			(at 26.035 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -17786,7 +17786,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#FLG04")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -17805,7 +17805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54e7bc63-4651-423b-8b56-01816da0099b")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR013"
 			(at 44.45 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17866,7 +17866,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR014")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -17884,7 +17884,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "579606a6-8dd5-4e26-a068-0c213a16a1ba")
-		(property "Reference" "R15"
+		(property "Reference" "R6"
 			(at 81.788 125.476 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17992,7 +17992,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R15")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -18010,7 +18010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5820c24d-b992-405a-8853-08271356ac55")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR014"
 			(at 44.45 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -18071,7 +18071,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR07")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -18088,7 +18088,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "58cc8a7a-4317-42d7-8ac4-ba98a98a5026")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR039"
 			(at 132.08 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -18148,7 +18148,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR049")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -18166,7 +18166,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60a7470c-f90b-45ab-8e50-9134259ff425")
-		(property "Reference" "D13"
+		(property "Reference" "D16"
 			(at 261.874 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18275,7 +18275,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D13")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -18293,7 +18293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61247550-6bc8-463a-b14f-440d9737d9cf")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG04"
 			(at 194.31 47.625 0)
 			(hide yes)
 			(show_name no)
@@ -18355,7 +18355,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#FLG03")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -18373,7 +18373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64a4e2ba-f418-41b1-9a53-707cb8c698ea")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR045"
 			(at 158.75 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -18434,7 +18434,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR030")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -18452,7 +18452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65260624-9749-4f2b-a632-572b47936082")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR025"
 			(at 77.47 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -18513,7 +18513,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR019")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -18530,7 +18530,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "675148f1-ebbb-4c87-95a0-e98b3e1b1504")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 67.818 155.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18660,7 +18660,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -18678,7 +18678,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "679237f2-d69a-4363-8b1d-77978cf559e4")
-		(property "Reference" "R5"
+		(property "Reference" "R8"
 			(at 82.804 184.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18784,7 +18784,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R5")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -18801,7 +18801,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "688eb308-8987-4f70-ac5f-016fbc55c95c")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR047"
 			(at 198.12 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -18861,7 +18861,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR034")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -18878,7 +18878,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "695785fe-5226-4c2c-b809-b2eaea6982e5")
-		(property "Reference" "D4"
+		(property "Reference" "D7"
 			(at 141.478 184.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18987,7 +18987,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D4")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -19004,7 +19004,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69744577-c48e-47b5-8f98-46456a9b8d3d")
-		(property "Reference" "C6"
+		(property "Reference" "C12"
 			(at 139.954 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19112,7 +19112,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C6")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -19129,7 +19129,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a138711-cac0-4263-9876-7482e3d1de4d")
-		(property "Reference" "TP3"
+		(property "Reference" "TP2"
 			(at 43.688 46.228 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19191,7 +19191,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "TP3")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -19208,7 +19208,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ba9ce03-e0aa-4bd5-ae9c-0479521704ea")
-		(property "Reference" "D2"
+		(property "Reference" "D5"
 			(at 128.524 184.404 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19317,7 +19317,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D2")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -19335,7 +19335,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c68ac73-8ee9-4986-8fb9-b3109a9997f8")
-		(property "Reference" "D15"
+		(property "Reference" "D12"
 			(at 251.714 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19444,7 +19444,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D15")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -19462,7 +19462,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ddec7eb-5c4a-4e71-b14c-201f3fe0d578")
-		(property "Reference" "R1"
+		(property "Reference" "R15"
 			(at 265.684 141.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19570,7 +19570,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R1")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -19587,7 +19587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "711dba45-7a90-4e9d-90a4-07d950ebf001")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR052"
 			(at 224.79 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -19648,7 +19648,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR023")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -19666,7 +19666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7167202c-6603-4a5c-9032-6df84674910e")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR066"
 			(at 262.89 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -19727,7 +19727,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR068")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -19744,7 +19744,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71884160-1007-4996-b0b1-aec778522ae4")
-		(property "Reference" "C16"
+		(property "Reference" "C20"
 			(at 200.406 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19852,7 +19852,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C16")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -19869,7 +19869,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71a7e173-b74a-492b-9622-9fc510091080")
-		(property "Reference" "H4"
+		(property "Reference" "H7"
 			(at 220.98 146.304 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19930,7 +19930,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H4")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -20156,7 +20156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7a220d96-bf44-4b80-b3a9-3544e6f7f005")
-		(property "Reference" "R8"
+		(property "Reference" "R13"
 			(at 208.788 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20264,7 +20264,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R8")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -20282,7 +20282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c5e7360-33ce-4ec7-a1ab-b51e82cabf69")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR040"
 			(at 132.08 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -20343,7 +20343,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR047")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -20360,7 +20360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e170fb0-e56a-4190-a265-e487d261e517")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR029"
 			(at 83.82 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -20420,7 +20420,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR070")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -20437,7 +20437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e251e0c-13a2-45b8-a81e-ea55aa364d06")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR018"
 			(at 50.8 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -20497,7 +20497,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR053")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -20515,7 +20515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e52da02-ed84-4450-ab35-deceefeb6aa6")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR032"
 			(at 97.79 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -20576,7 +20576,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR040")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -20593,7 +20593,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80b9c882-6b2a-446b-aaa5-33c4c3b6beb4")
-		(property "Reference" "D6"
+		(property "Reference" "D4"
 			(at 69.342 186.944 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20712,7 +20712,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D6")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -20729,7 +20729,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "820e172e-fb02-4ac3-81cd-69ba7ae06d21")
-		(property "Reference" "U1"
+		(property "Reference" "U7"
 			(at 245.11 156.718 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20855,7 +20855,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U1")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -20873,7 +20873,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "823327f4-52af-4720-bef6-ef4ffe5b01ea")
-		(property "Reference" "D9"
+		(property "Reference" "D3"
 			(at 68.834 149.352 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20990,7 +20990,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D9")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -21008,7 +21008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8281d756-bf83-4daf-89a3-3ed83f232fa1")
-		(property "Reference" "J6"
+		(property "Reference" "J2"
 			(at 17.78 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21071,7 +21071,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J6")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -21088,7 +21088,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8676fbe4-b3b6-4b1e-8b07-0602c9585bfb")
-		(property "Reference" "D7"
+		(property "Reference" "D9"
 			(at 154.178 183.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21197,7 +21197,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D7")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -21215,7 +21215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "867c8c72-76c9-4c91-9b1a-4d37d59b08a5")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR071"
 			(at 267.97 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -21276,7 +21276,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR056")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -21372,7 +21372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c31c0ea-ecd9-45be-b11f-12096cb8ba7f")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR010"
 			(at 35.56 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -21433,7 +21433,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR06")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -21451,7 +21451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f76f760-b6e8-4af6-b707-6ebfedfd0f96")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR042"
 			(at 137.16 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -21512,7 +21512,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR025")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -21529,7 +21529,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93e729fd-dc0a-4259-a0d1-3039ec3cc150")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR030"
 			(at 87.63 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -21589,7 +21589,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR066")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -21608,7 +21608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "971dd1a1-a941-4735-b91a-04df175c6051")
-		(property "Reference" "H6"
+		(property "Reference" "H2"
 			(at 189.23 152.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21667,7 +21667,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H6")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -21685,7 +21685,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "988e4eb2-b302-4774-aaca-63d13fd3a1e4")
-		(property "Reference" "C7"
+		(property "Reference" "C13"
 			(at 136.906 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21793,7 +21793,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C7")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -21810,7 +21810,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a8384af-b75f-4dcc-9b16-012bc31154ec")
-		(property "Reference" "TP4"
+		(property "Reference" "TP1"
 			(at 20.066 78.994 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21872,7 +21872,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "TP4")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -21891,7 +21891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d1a20e7-d1e3-4817-8f0f-0076179d680a")
-		(property "Reference" "R16"
+		(property "Reference" "R7"
 			(at 82.55 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21999,7 +21999,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R16")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -22016,7 +22016,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e04fe6e-231f-4063-a016-a127624a162b")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 122.682 180.594 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22092,7 +22092,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -22187,7 +22187,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2fbe9fa-8e06-4f3a-9d17-4aab94762929")
-		(property "Reference" "C12"
+		(property "Reference" "C17"
 			(at 161.544 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22295,7 +22295,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C12")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -22312,7 +22312,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a3865bab-e988-427e-87fe-64fd07cd2009")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR08"
 			(at 31.75 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -22372,7 +22372,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR04")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -22391,7 +22391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4434180-5e04-4450-b577-85fb5bea605f")
-		(property "Reference" "R9"
+		(property "Reference" "R4"
 			(at 45.72 158.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22497,7 +22497,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R9")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -22595,7 +22595,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a519ce25-7e9a-46f9-9265-9492ed096df8")
-		(property "Reference" "D5"
+		(property "Reference" "D8"
 			(at 147.828 184.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22704,7 +22704,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D5")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -22722,7 +22722,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a5a609a5-12b2-431f-ac60-f4bf6868106f")
-		(property "Reference" "C19"
+		(property "Reference" "C8"
 			(at 89.408 160.782 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22830,7 +22830,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C19")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -22847,7 +22847,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6f64aaa-ef3a-44fe-9b1e-82d3899eeac4")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR041"
 			(at 137.16 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -22907,7 +22907,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR024")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -22925,7 +22925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a910139c-bab2-4785-9650-3668e58a2da2")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR036"
 			(at 111.76 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -22986,7 +22986,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR02")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -23005,7 +23005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa1249c8-31b7-45bc-b6e8-841e47621990")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR069"
 			(at 264.16 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -23066,7 +23066,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR050")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -23085,7 +23085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa517776-4b06-4234-842b-8b7dfbcd5482")
-		(property "Reference" "R12"
+		(property "Reference" "R1"
 			(at 41.91 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23191,7 +23191,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R12")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -23209,7 +23209,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac729fdb-5d1f-4510-b033-11540a522609")
-		(property "Reference" "R17"
+		(property "Reference" "R11"
 			(at 157.988 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23315,7 +23315,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R17")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -23333,7 +23333,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae53931a-8759-44ca-8326-e64874a6b578")
-		(property "Reference" "C21"
+		(property "Reference" "C5"
 			(at 83.058 116.332 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23441,7 +23441,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C21")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -23458,7 +23458,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae6d3581-18e5-407d-ab33-4063d6051be8")
-		(property "Reference" "D8"
+		(property "Reference" "D10"
 			(at 207.518 108.204 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23577,7 +23577,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D8")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -23595,7 +23595,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1b0a3f7-00ed-476d-a1db-a57da47a12d5")
-		(property "Reference" "C5"
+		(property "Reference" "C11"
 			(at 123.19 117.348 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23701,7 +23701,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C5")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -23719,7 +23719,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2e592e1-81f8-4462-b970-a8857cd9907a")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR046"
 			(at 186.69 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -23780,7 +23780,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR033")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -23798,7 +23798,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3edf53b-0bd7-411f-aba1-b73d1a7b3a88")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR054"
 			(at 241.3 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -23859,7 +23859,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR03")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -23877,7 +23877,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5de78ad-8243-44dd-aeac-1b7e5bf1696b")
-		(property "Reference" "J8"
+		(property "Reference" "J3"
 			(at 62.23 79.502 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23951,7 +23951,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J8")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -23969,7 +23969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba76e4cc-7a34-4399-8570-cb10de70c40b")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR043"
 			(at 139.7 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -24030,7 +24030,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR026")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -24047,7 +24047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "baa65fe4-a570-479c-9169-8a8e3c232ffb")
-		(property "Reference" "C17"
+		(property "Reference" "C21"
 			(at 205.74 27.432 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24155,7 +24155,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C17")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -24172,7 +24172,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "baf01e20-8a0e-480f-96a1-a181932ef29b")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR07"
 			(at 31.75 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -24232,7 +24232,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR09")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -24250,7 +24250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bccfca8b-ea66-4f8e-85bb-7f3741d50e2a")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR057"
 			(at 247.65 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -24311,7 +24311,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR061")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -24329,7 +24329,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd882c12-cff6-496c-8c10-5369ee676ed3")
-		(property "Reference" "C9"
+		(property "Reference" "C14"
 			(at 144.78 72.136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24435,7 +24435,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C9")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -24452,7 +24452,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bea4793f-5905-4579-b200-a8c38f03e5e8")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR020"
 			(at 57.15 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -24512,7 +24512,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR054")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -24530,7 +24530,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bed0740c-c7ab-47b6-8981-dd889459ddbb")
-		(property "Reference" "J9"
+		(property "Reference" "J8"
 			(at 276.86 109.2201 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24604,7 +24604,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J9")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -24621,7 +24621,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c438abae-7291-46ff-9bdd-f345c3ecf988")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 135.636 123.952 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24751,7 +24751,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U6")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -24769,7 +24769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5dedbf3-d65f-40f6-9ce9-97addf4a5933")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR050"
 			(at 210.82 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -24830,7 +24830,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR037")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -24929,7 +24929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7af0c0a-9bd4-4c80-85c1-e74b71e011d1")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR059"
 			(at 252.73 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -24990,7 +24990,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR060")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -25007,7 +25007,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c97ad1c9-369b-4c68-8662-36bdd75a5b31")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR060"
 			(at 252.73 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -25067,7 +25067,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR012")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -25084,7 +25084,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cbdf8361-c9b1-4262-bbf4-3a097918cc2b")
-		(property "Reference" "SW5"
+		(property "Reference" "SW2"
 			(at 86.36 81.788 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25191,7 +25191,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "SW5")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -25208,7 +25208,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd2f2553-1870-473e-93e4-2835932f2184")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 64.008 111.252 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25338,7 +25338,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -25355,7 +25355,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd3eb840-a33a-4c1c-8346-203e45729652")
-		(property "Reference" "R7"
+		(property "Reference" "R12"
 			(at 156.21 80.518 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25461,7 +25461,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R7")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -25478,7 +25478,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cdfc65b8-1d89-456d-a816-7b8d668f7080")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR033"
 			(at 100.33 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -25538,7 +25538,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR043")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -25555,7 +25555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d04784eb-a866-488c-9cdd-5b392c6e23f8")
-		(property "Reference" "J4"
+		(property "Reference" "J10"
 			(at 272.542 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25619,7 +25619,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J4")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -25636,7 +25636,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d268491e-fd3a-4ccf-b502-cc0f44e0bbb6")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR026"
 			(at 80.01 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -25696,7 +25696,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR021")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -25714,7 +25714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d29f6bf7-c743-41a4-8927-e6830369cf07")
-		(property "Reference" "R6"
+		(property "Reference" "R9"
 			(at 151.13 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25820,7 +25820,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "R6")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -25837,7 +25837,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d33accc2-df65-4a6c-980e-188df73a96cd")
-		(property "Reference" "SW2"
+		(property "Reference" "SW3"
 			(at 86.36 88.138 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25944,7 +25944,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "SW2")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -25961,7 +25961,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d54d5baf-9daa-4cc9-a78c-4cc286008f9d")
-		(property "Reference" "U8"
+		(property "Reference" "U2"
 			(at 28.702 73.914 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26110,7 +26110,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "U8")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -26128,7 +26128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8f00c55-44fb-498e-93ba-a42c06d823c7")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR05"
 			(at 27.94 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -26189,7 +26189,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR044")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -26207,7 +26207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9147972-ea10-4c40-895b-afd6cc8e812a")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR03"
 			(at 24.13 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -26268,7 +26268,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR046")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -26285,7 +26285,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "de2a01ca-23e3-4a29-88a9-0ad788c2951e")
-		(property "Reference" "H2"
+		(property "Reference" "H5"
 			(at 210.82 146.304 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26346,7 +26346,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H2")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -26364,7 +26364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e007583d-3413-4e66-976e-32a5c20f6eb7")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 48.26 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -26425,7 +26425,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -26568,7 +26568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4092a6a-81b6-4953-8ef7-ec74742dbf52")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR053"
 			(at 236.22 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -26628,7 +26628,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR039")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -26646,7 +26646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7b4c720-b0c1-4be9-8567-46ed81e1026c")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR021"
 			(at 57.15 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26707,7 +26707,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR055")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -26725,7 +26725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8b53723-ea0f-4f9b-8572-a2caf7495f45")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR011"
 			(at 36.83 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -26786,7 +26786,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR029")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -26885,7 +26885,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea9cdcad-353a-45bf-8988-1e8b207dc587")
-		(property "Reference" "J11"
+		(property "Reference" "J7"
 			(at 276.86 77.4701 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26959,7 +26959,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "J11")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -26977,7 +26977,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eae495ea-09c1-4ffc-ac8c-6707fa5f0c26")
-		(property "Reference" "C20"
+		(property "Reference" "C10"
 			(at 94.488 160.782 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27085,7 +27085,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C20")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -27102,7 +27102,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eb9dbae5-5a1c-4bd5-bcee-63ebbaf61092")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR063"
 			(at 256.54 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -27162,7 +27162,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR057")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -27181,7 +27181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebec987e-6eb8-4dc9-81bd-ac31ad34390f")
-		(property "Reference" "H7"
+		(property "Reference" "H3"
 			(at 189.23 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27240,7 +27240,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H7")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -27258,7 +27258,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecd3ea37-0c22-4aa2-8548-a2773ff02b86")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR056"
 			(at 247.65 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -27319,7 +27319,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR064")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -27337,7 +27337,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2c18a68-ba6a-4664-8869-198a6f9e496c")
-		(property "Reference" "C23"
+		(property "Reference" "C9"
 			(at 93.218 116.332 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27445,7 +27445,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C23")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -27463,7 +27463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6510b75-0811-4fad-a70d-46b6b0c25014")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR02"
 			(at 24.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -27524,7 +27524,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR045")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -27542,7 +27542,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f68757bc-c65b-4325-9c9f-39cf176a97c9")
-		(property "Reference" "D16"
+		(property "Reference" "D11"
 			(at 251.714 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27651,7 +27651,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D16")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -27668,7 +27668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f7c5c1ef-362f-422e-b0d4-ec4119a8ae06")
-		(property "Reference" "H1"
+		(property "Reference" "H4"
 			(at 205.74 146.304 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27729,7 +27729,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "H1")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -27746,7 +27746,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8b25f4a-36e2-4c5b-a140-bc99216d99b2")
-		(property "Reference" "C15"
+		(property "Reference" "C19"
 			(at 180.594 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27854,7 +27854,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C15")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -27871,7 +27871,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f923832c-2a1a-4db5-a0ba-bb942af4281c")
-		(property "Reference" "C11"
+		(property "Reference" "C16"
 			(at 151.384 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27979,7 +27979,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "C11")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -27997,7 +27997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fabace30-2b89-4548-a7ee-f24fc8f9e524")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR09"
 			(at 34.29 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -28058,7 +28058,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR010")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -28075,7 +28075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fae8e800-5e7c-49ee-ab8a-61d2def9255f")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR01"
 			(at 22.86 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -28135,7 +28135,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR027")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -28153,7 +28153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbc6668e-b680-4a23-b3f2-28dec89df864")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 25.4 116.205 0)
 			(hide yes)
 			(show_name no)
@@ -28214,7 +28214,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -28232,7 +28232,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc43a4db-2674-4dbe-a946-c08b1fd89a89")
-		(property "Reference" "D18"
+		(property "Reference" "D15"
 			(at 261.874 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28341,7 +28341,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "D18")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -28358,7 +28358,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc599a0d-87da-4c37-b19d-298650becba1")
-		(property "Reference" "SW3"
+		(property "Reference" "SW5"
 			(at 86.36 100.838 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28465,7 +28465,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "SW3")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -28607,7 +28607,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff5cf442-d3e6-489b-bdca-28753d99fcdc")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR049"
 			(at 207.01 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -28668,7 +28668,7 @@
 		(instances
 			(project "altitude-ctrl-1"
 				(path "/5e1880a2-a9e2-4cbe-96e2-fe1be59d322f"
-					(reference "#PWR036")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
