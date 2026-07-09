@@ -13047,6 +13047,16 @@
 		)
 		(uuid "114dd2f6-ddb6-4752-aa15-b1a09bda3423")
 	)
+	(label "DIR"
+		(at 185.42 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "139f84c0-4dca-4fb3-ae39-f748e434988c")
+	)
 	(label "~{CS}"
 		(at 147.32 137.16 180)
 		(effects
@@ -13096,16 +13106,6 @@
 			(justify right bottom)
 		)
 		(uuid "1f946c83-c64b-42ba-b065-8909fb22e545")
-	)
-	(label "DIR"
-		(at 185.42 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "213b52c6-9ea5-4c1d-bcc0-0cb584a1a1cc")
 	)
 	(label "PRES_SNS"
 		(at 240.03 69.85 180)
@@ -13367,6 +13367,16 @@
 		)
 		(uuid "a29f118e-3111-4f89-8618-8cfb0621e6ae")
 	)
+	(label "STEP"
+		(at 185.42 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2f40302-8831-487b-b39c-b023c350c298")
+	)
 	(label "UART"
 		(at 241.3 59.69 180)
 		(effects
@@ -13387,16 +13397,6 @@
 		)
 		(uuid "a8b56703-b915-4c74-967b-d98d4c022a76")
 	)
-	(label "EN"
-		(at 185.42 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a9a9ec47-c0ba-442e-bcde-b7d48a78c6dd")
-	)
 	(label "RST"
 		(at 187.96 69.85 0)
 		(effects
@@ -13406,16 +13406,6 @@
 			(justify left bottom)
 		)
 		(uuid "b47a8ab3-d5af-4355-bbd4-c0f705a8243d")
-	)
-	(label "STEP"
-		(at 185.42 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b973925b-3458-4412-a2cd-48d5000ce738")
 	)
 	(label "UART"
 		(at -73.66 95.25 0)
@@ -13536,6 +13526,16 @@
 			(justify right bottom)
 		)
 		(uuid "e43ad555-be3b-48db-b6e0-cf15476f7d67")
+	)
+	(label "EN"
+		(at 185.42 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f392beea-da57-41bd-85ec-92503549da22")
 	)
 	(label "NRST"
 		(at 123.19 168.91 0)
@@ -23802,7 +23802,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal"
 			(at -25.146 102.616 0)
 			(hide yes)
 			(show_name no)
